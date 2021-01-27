@@ -12,7 +12,6 @@ import oxasl.oxford_asl
 import tempfile
 import shutil 
 import toblerone.utils as tutils
-import toblerone.resampling as tresampling
 import toblerone
 import glob
 
